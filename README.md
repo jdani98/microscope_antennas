@@ -45,5 +45,4 @@ With this step the programs are ready to be executed.
     - `psddif_run.py`: compute the difference between two mean PSD
     - Pair `timesdist...`: compute the time distribution of events during time
     - `fullchar_autorun.sh`: execute in bash automatically `event_run.py`, `histo_run.py` and `psd2_run.py` to automatically save the full characterization of signals
-
-
+  - **`microcodes_utils`**: several useful programs. Less sofisticated than previous ones. Description in each code.
