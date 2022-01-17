@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Nov 17 17:22:59 2021
-
 @author: daniel
 
 NUMBER OF SAMPLES OVER THRESHOLD
