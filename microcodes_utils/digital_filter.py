@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 26 13:28:53 2021
-
 @author: daniel
 
 DIGITAL FILTER AND EVENT VIEWER

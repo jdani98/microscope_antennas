@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+DIFFERENT FUNCTIONS TO USE IN OUR ENVIRONMENT
+@author: @daniel
+"""
+
 import numpy as np
 
 def agrupar(X,ngroup):
