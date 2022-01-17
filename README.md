@@ -3,7 +3,7 @@ This repository contains all the software for the treatment of digital signals r
 
 [^footnote1]:  Juan A. Garzón, _Atomic, Nuclear and Molecular Physics, Department of Particle Physics_, IGFAE (USC)<br/>
                John Xuna, _Cosmic Particles and Fundamental Physics researcher_, IGFAE (USC)<br/>
-               José Daniel Viqueira Cao, _Cosmic Rays researcher_, IGFAE (USC)
+               José Daniel Viqueira Cao, _Cosmic Rays researcher_, IGFAE (USC) (creator of this repository)
 
 Please **read** the instructions before dowloading and executing the software.
 
